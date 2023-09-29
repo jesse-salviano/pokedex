@@ -8,7 +8,6 @@
   .pokemons li {
     padding: 0.7rem;
     margin: .5rem;
-    background-color: rgb(6, 153, 107);
     border-radius: 20px;
     color: #ffffffbb;
     display: flex;
@@ -59,7 +58,29 @@
   .pokemon-image {
     z-index: 999;
     max-width: 70%;
-    background-color: #a3a3a35e;
+    background-color: #e7e7e75e;
     border-radius: 100%;
   }
+
+  .grass{background-color: #78c850;}
+  .water{background-color: #6890f0;}
+  .fire{background-color: #f05030;}
+  .electric{background-color: #f8d030;}
+  .psychc{background-color: #f85888;}
+  .ice{background-color: #98d8d8;}
+  .dragon{background-color: #7038f8;}
+  .bug{background-color: #8ea033;}
+  .dark{background-color: #705848;}
+  .normal{background-color: #a8a878;}
+  .fight{background-color: #903028;}
+  .poison{background-color: #a040a0;}
+  .flying{background-color: #eabbf5;}
+  .fairy{background-color: #fed2ff;}
+  .ground{background-color: #e0c068;}
+  .rock{background-color: #b8a038;}
+  .ghost{background-color: #705898;}
+  .steel{background-color: #b8b8d0;}
+  .{background-color: #68a090;}
+
+
   
